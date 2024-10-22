@@ -1,0 +1,29 @@
+#x = 5 #"5", 5.0
+
+x = float(5) X
+
+y = "hello"
+
+Z = 3.14159
+
+print ('Hello World')
+
+print(x)
+
+print(type(x))
+
+print(y)
+
+print(type(y))
+
+print(z)
+
+print(type(z))
+
+myvar = "John"
+
+print(myvar)
+
+my_var = "John"
+
+print(my_var)
